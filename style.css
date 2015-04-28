@@ -1,0 +1,48 @@
+html, body, ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style-type: none;
+}
+
+.clearfix {
+	overflow: auto;
+}
+
+.part-one {
+	font-family: 'Slabo 27px', serif; 
+
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-top: 1%;
+	text-align: center;
+	background-color: #2AC4FE;
+	height: 32%
+}
+
+#main-title {
+	font-size: 350%;
+	font-weight: bold;
+	color: #71F605;
+	padding-top: 2%;
+	
+}
+
+#byline {
+	font-size: 140%;
+	color: #0331A7;
+	
+}
+
+#text {
+	font-size: 110%;
+	font-family: 'Roboto', sans-serif;
+	padding-left: 4%;
+	padding-right: 5%;
+	padding-bottom: 2.5%;
+}
+
+
+
+#text li {
+	padding-top: 1.3%;
+}
